@@ -1,6 +1,10 @@
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+
 a {
     padding: 0px 0px 0px 0px;
-    margin-top: 100px;
     margin-left: 100px;
 }
 
@@ -39,6 +43,8 @@ p {
 
 #phone {
     margin-top: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 .table1 {
@@ -112,3 +118,16 @@ p {
     margin-top: 200px;
 }
 
+#imgone {
+    width: 95px;
+    height: 70px;
+}
+
+#imgtwo {
+    width: 95px;
+    height: 70px;
+}
+
+#centertwo {
+    color: black;
+}
