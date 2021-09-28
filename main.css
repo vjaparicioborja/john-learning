@@ -1,0 +1,24 @@
+html, body {
+    background: #eeeeee
+}
+.testimonial-card {
+    width: 350;
+    height: 150;
+    position: relative;
+    padding: 20;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.testimonial-card-container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.testimonial-card-animoji > img {
+    width: 80px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
